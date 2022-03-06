@@ -11,7 +11,7 @@ The Kickstarter data attached in [Kickstarter_Analysis](C:/Users/ellye/Documents
 Out of the 4,114 total projects analyzed, 34% were theater projects, and 26% were in the subcategory of plays, of which 65% were successful. In the US, 58% of theater projects, and 61% of projects in the play subcategory were successful. 
 
 ##### See the US outcomes by Category here:
-![Kickstarter_Outcomes_by_Category.png](C:/Users/ellye/Documents/Bootcamp/Analysis_Projects/Crowdfunding_Analysis/Kickstarter_Outcomes_by_Category.png)
+![Kickstarter_Outcomes_by_Category.png](kickstarter-analysis/Kickstarter_Outcomes_by_Category.png)
 
 ##### See the US outcomes by SubCategory here:
 ![Kickstarter_Outcomes_by_SubCategory.png](C:/Users/ellye/Documents/Bootcamp/Analysis_Projects/Crowdfunding_Analysis/Kickstarter_Outcomes_by_SubCategory.png)
