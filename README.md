@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 ## An analysis of campaign data from other crowdfunded projects in the theater and arts space.
 
-The Kickstarter data attached in [Kickstarter_Analysis](main/kickstarter-analysis/Kickstarter_Analysis.xlsx) was analized using the following key data points, organized by successful and failed outcomes:
+The Kickstarter data attached in [Kickstarter_Analysis](kickstarter-analysis/main/Kickstarter_Analysis.xlsx) was analized using the following key data points, organized by successful and failed outcomes:
 
 - Funding Goal
 - Pledged Amount
