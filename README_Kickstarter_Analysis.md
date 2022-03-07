@@ -63,4 +63,4 @@ Further analysis on the outcomes by launched date could include separate line ch
 Further analysis on the outcomes by goal category would be to further break down the statistics for goal, pledged amount and average donation per each goal range category. Say that Louise finds that the cost of her project will likely be over $10K, then we would want to zoom into that category to find the mean, median and quartile data for the goal and pledged amount to find the ideal goal most likely to be funded. Average donation statistics can help her gauge how she wants to structure her fundraising materials and requests. 
 
 Final spreadsheet can be viewed at:
-[Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx)
+[Kickstarter_Challenge.xlsx](Kickstarter_Challenge.zip)
