@@ -39,16 +39,16 @@ Percentage Outcomes by Goal Challenges:
 
 ## Results
 
-- Conclusions of Outcomes based on Launch Date: 
+### Conclusions of Outcomes based on Launch Date: 
 1. The months of May and June prove to be the most successful month to launch a campaign. I recommend starting your campaign in middle to late May.
 2. The last quarter of the year (October-December) shows steadily declining rates of success for fundraising campaigns. I recommend that you avoid beginning a campaign during these months, as there may be difficulties fundraising around the holiday season when potential funders are spending money on gifts and holiday celebrations and may have less disposable income. 
 
-- Conclusions of Outcomes based on Goals?
+### Conclusions of Outcomes based on Goals?
 Breaking down the goals into smaller groups of ranges sheds a little light into the possible outliers in our data set, particularly the projects over $50K, as there are significant more Total Projects in that range than in the other ranges over $25K. Looking at the projects with goals of $50K or higher, only 2 were successful while 14 were unsuccessful. However, it is difficult from this data only to say whether these campaigns failed because their goal was too high, or because they were not desireable projects for funders. 
 
 This analysis further shows that the campaigns with smaller goals are more likely to succeed. The highest successrates were the first two goal ranges of less than $1000 and $5000-9999, which were each had a success rate of over 70%. I recommend that Louise set a fundraising goal of under $10K for this reason. Moving into the next goal range categories, those in between $10K and $25K, we see the success rate lowers to near 50%.
 
-- Limitations of the dataset:
+### Limitations of the dataset:
 
 One major limitation of the dataset is that the success of a fundraising campaign is somewhat left up to subjectivity of the donors in the community of the project. If a project has a 20K goal, but is a very-well suited and significant project for the communicaty, the donors may be more inclined to donate and easily surpass the goal, whereas a 20K goal for a project that interests few people would be much more difficult to fund. While average donation helps us understand the desirability of a project, some projects may have had 1 or 2 special donors that provided the majority of the cost for the project, skewing the average donation.
 
@@ -56,7 +56,7 @@ The data in this Percentage Outcomes by Goal report has not been filtered by cou
 
 The limitation of comparing the create date by month and not looking at individual years is that in some years, donors are less likely to contribute. For example, campaigns typically receive less funding during a political campaign year, or one year could have been negatively impacted by an unforseen economic downturn caused by natural disaster for example. 
 
-- Additional Charts and/or Tables to review:
+### Additional Charts and/or Tables to review:
 
 Further analysis on the outcomes by launched date could include separate line charts looking at specific years. Also, we could further limit this data to show only Plays, as well as plays in only the US or other country. 
 
