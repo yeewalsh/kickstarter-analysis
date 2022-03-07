@@ -13,7 +13,7 @@ I analyzed all Theater campaigns by launched date: using a pivot table, I broke 
 
 The following line chart displays the progression of outcomes by month the campaign started. Although the data appears to be spanning 1 year, it is actually collecting data from multiple years, so I provided Louise the option to futher filter on year to explore the trendes year per year. 
 
-![Theater_Outcomes_vs_Launch.png](C:/Users/ellye/Documents/Bootcamp/Crowdfunding_Analysis/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
@@ -22,7 +22,7 @@ To analayze the outcomes based on goals, I first broke down the data into ranges
 
 Next, I used the counts of successful/failed/cancelled outcomes by goal range to calculate the percentage of successful, failed, and canceled projects. These percentages are now displayed in a line chart where you can see the rise and fall of probability of a campaign to succeed as the goal gets higher. 
 
-![Percentage_Outcomes_By_Goal.png](C:/Users/ellye/Documents/Bootcamp/Crowdfunding_Analysis/Resources/Percentage_Outcomes_By_Goal.png)
+![Percentage_Outcomes_By_Goal.png](Resources/Percentage_Outcomes_By_Goal.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -63,4 +63,4 @@ Further analysis on the outcomes by launched date could include separate line ch
 Further analysis on the outcomes by goal category would be to further break down the statistics for goal, pledged amount and average donation per each goal range category. Say that Louise finds that the cost of her project will likely be over $10K, then we would want to zoom into that category to find the mean, median and quartile data for the goal and pledged amount to find the ideal goal most likely to be funded. Average donation statistics can help her gauge how she wants to structure her fundraising materials and requests. 
 
 Final spreadsheet can be viewed at:
-[Kickstarter_Challenge.xlsx](C:/Users/ellye/Documents/Bootcamp/Crowdfunding_Analysis/Resources/Kickstarter_Challenge.xlsx)
+[Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx)
