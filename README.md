@@ -20,4 +20,4 @@ Out of the 4,114 total projects analyzed, 34% were theater projects, and 26% wer
 ![USLaunchDate.png](main/kickstarter-analysis/USLaunchDate.png)
 
 ## Recommendations:
-Per the analysis, we recommend organizing your Kickstarter campaign to begin in May, as this was the most successful launch month looking at other US projects in the Theater category. Looking at the overall distribution of funding goals and pledges for Successful US Plays, we found that your ideal funding goal would be between #3250-3500 to ensure success. 
+Per the analysis, we recommend organizing your Kickstarter campaign to begin in May, as this was the most successful launch month looking at other US projects in the Theater category. Looking at the overall distribution of funding goals and pledges for Successful US Plays, we found that your ideal funding goal would be between $3250-3500 to ensure success. 
